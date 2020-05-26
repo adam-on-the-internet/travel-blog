@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Galway"
+date:   2018-07-17
+categories: travel
+---
+
+Here’s a picture someone else in one of the tour groups took of us at the Berlin Wall.
+
+![useful image]({{site.baseurl}}/assets/img/image.jpg)

@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Italy"
+date:   2018-07-17
+categories: travel
+---
+
+After visiting Ireland with my family and the UK with my brother, I flew out of London towards Milan for the last solo leg of my trip in Europe- Italy.
+
+# Milan – Day 1
+
+I landed in Milan in the evening and immediately checked into my hostel. This hostel was one of the nicest hostels in Europe and actually gave me free food and wine when I checked in. There was also an amazing rooftop patio area with hammocks.
+
+Milan is a fashion capital, so it makes sense that the city itself is beautiful. I enjoyed seeing the city and wished I had more than a day to see it all.
+
+![useful image]({{site.baseurl}}/assets/img/image.jpg)
+
+# Venice – Day 2,3
+
+I took a train to the mainland part of Venice and checked into my hostel. After a short rest, I took a train from the mainland to the islands. The city was a beautiful maze. It’s also very touristy- there are more tourists than people on the island. Because of this there are a lot of tourist trap restaurants with bad food. Luckily, I found a few really nice places for Italian food and wine. It was nice, but I kind of wished I had two days in Milan instead of Venice since it was so touristy.
+
+![useful image]({{site.baseurl}}/assets/img/image.jpg)
+
+# Rome – Days 4,5,6
+
+My final stop in Europe was also a longer stop – 3 days. I had a hostel about a 15 minute walk from the Colosseum. With so much to see in Rome, I had to do a lot of walking. This was well worth it since there were beautiful churches and fountains around every corner.
+
+Again, there were a lot of tourist trap restaurants but I learned my lesson and researched online to find the best picks, including an authentic pizzeria and a place that handmade all their noodles. I enjoyed my time here but I was eager to fly back home.
+
+![useful image]({{site.baseurl}}/assets/img/image.jpg)
