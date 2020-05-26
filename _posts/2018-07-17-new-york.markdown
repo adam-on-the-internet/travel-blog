@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "New York"
+date:   2018-07-17
+categories: travel
+---
+
+I landed back in America late at night at Newark, New Jersey. It took awhile to get my bags and make it through customs. After I did, I found it was hard to find the train into the city. I eventually managed to find the airport tram that led to the train station that led to the main New York Subway. Once there, it was a short walk to my hostel. I checked in around midnight and immediately went to sleep.
+
+The next day I did all the sightseeing possible: central park, Times Square, Rockefeller Plaza, and I got a view of the Statue of Liberty. I didn’t spend too long at any of them so I could be sure not to miss anything. The city was much cleaner and friendlier than I expected, and while the subway wasn’t as nice as the transport in other countries I still found it helpful.
+
+That night I met with a mutual friend I had also seen in Paris and went for food (my first American hamburger in months) and to a few bars including a hidden speakeasy.
+
+The next day I picked a few specific things to see in depth. The first was the High Line, an abandoned above ground railway track that had been turned into a park. The next was the Whitney art museum (right next to the High Line). These were both in the historic meatpacking district. After this, I went to bars and restaurants and just explored whatever I could find.
+
+I left New York surprised by how much I enjoyed it but still ready to come home.
+
+![useful image]({{site.baseurl}}/assets/img/image.jpg)
