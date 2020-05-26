@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Belfast"
+date:   2018-03-12
+categories: travel
+---
+
+Here are a bunch of pics from my recent trip to Belfast!
+
+We left Maynooth at 8:30am and made it to Belfast in about two hours. Although Belfast is in a different country, Northern Ireland (which is part of the UK) there is no border crossing you have to stop at.
+
+After arriving in Belfast, we went on a walking tour to see some of the famous political murals around the city, including the Peace Wall that has been signed by people from around the world.  We tried to sign it as well, but with the rain we couldn’t get anything written on the wall.
+
+After that walk, we went to a shopping centre that had a 360 degree view of Belfast at the top. Of course, since we were in Ireland, it was rainy and cloudy so the view wasn’t the greatest.
+
+Lastly, we went to the Titanic Museum which is one of the top museums in the world. It’s located around where the ship first departed Ireland, and the museum had a lot of details on how it was proudly made in Northern Ireland. I did not get pictures inside the museum but you can see the outside by finding the weird looking building in the pictures below (the corners look boat-like).
+
+I’m currently planning my next big trip to the UK, where I’ll have loads of pictures to share.  Also, this weekend is St. Patrick’s Day so I’ll have some pictures from the parade to show!
+
+![useful image]({{site.baseurl}}/assets/img/image.jpg)
