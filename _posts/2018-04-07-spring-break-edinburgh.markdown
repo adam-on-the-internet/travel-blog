@@ -33,7 +33,6 @@ With only one day in Edinburgh, I started to explore right away. I climbed up th
 ![useful image]({{site.baseurl}}/assets/img/sb-edinburgh-2/dsc00534.jpg)
 ![useful image]({{site.baseurl}}/assets/img/sb-edinburgh-2/dsc00535.jpg)
 ![useful image]({{site.baseurl}}/assets/img/sb-edinburgh-2/dsc00536.jpg)
-![useful image]({{site.baseurl}}/assets/img/sb-edinburgh-2/dsc00537.jpg)
 ![useful image]({{site.baseurl}}/assets/img/sb-edinburgh-2/dsc00538.jpg)
 ![useful image]({{site.baseurl}}/assets/img/sb-edinburgh-2/dsc00539.jpg)
 ![useful image]({{site.baseurl}}/assets/img/sb-edinburgh-2/dsc00540.jpg)
