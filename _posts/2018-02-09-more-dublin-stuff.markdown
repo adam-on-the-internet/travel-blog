@@ -11,12 +11,14 @@ Here are a few more things I’ve seen:
 
 Here’s the view of the skyline from on top of a parking garage at a shopping centre. There are no skyscrapers or even tall buildings and the city goes for miles.
 
-![useful image]({{site.baseurl}}/assets/img/image.jpg)
+![useful image]({{site.baseurl}}/assets/img/more-dublin-1/snapchat-612216303.jpg)
+![useful image]({{site.baseurl}}/assets/img/more-dublin-1/snapchat-1214013889.jpg)
 
 This was a cool pizza pub that has a double decker bus you can eat on! They didn’t have music when I was there but apparently they do other times.
 
-![useful image]({{site.baseurl}}/assets/img/image.jpg)
+![useful image]({{site.baseurl}}/assets/img/more-dublin-2/snapchat-1436190181.jpg)
 
 This is one of the parks. There are a ton of these huge walled-off parks in Dublin. (I think this one is St. Stephen’s Green). They used to be private parks for the people who lived in the area, these people would have keys to their park.
 
-![useful image]({{site.baseurl}}/assets/img/image.jpg)
+![useful image]({{site.baseurl}}/assets/img/more-dublin-3/snapchat-187619850.jpg)
+![useful image]({{site.baseurl}}/assets/img/more-dublin-3/snapchat-1093089737.jpg)

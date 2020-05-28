@@ -15,4 +15,12 @@ I made a list of the things I needed and took a short walk to the shopping area 
 
 After moving in I walked around the town with one of my roommates and tried a Guinness at one of the pubs, the Clock House. After a few of those we walked back to the apartment and called it a night. Over the next few days I’m going to find out what else I need to get settled and explore more of the town!
 
-![useful image]({{site.baseurl}}/assets/img/image.jpg)
+![useful image]({{site.baseurl}}/assets/img/first-day/snapchat-113659821.jpg)
+![useful image]({{site.baseurl}}/assets/img/first-day/snapchat-624964063.jpg)
+![useful image]({{site.baseurl}}/assets/img/first-day/snapchat-1153923201.jpg)
+![useful image]({{site.baseurl}}/assets/img/first-day/snapchat-1640573836-e1516750376823.jpg)
+![useful image]({{site.baseurl}}/assets/img/first-day/snapchat-2034551531.jpg)
+![useful image]({{site.baseurl}}/assets/img/first-day/snapchat-2784430941.jpg)
+![useful image]({{site.baseurl}}/assets/img/first-day/snapchat-7537615191.jpg)
+![useful image]({{site.baseurl}}/assets/img/first-day/snapchat-16300469541-e1516729092856.jpg)
+![useful image]({{site.baseurl}}/assets/img/first-day/snapchat-19861185431.jpg)
