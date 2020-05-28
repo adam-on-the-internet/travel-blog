@@ -5,8 +5,6 @@ date:   2018-05-13
 categories: travel
 ---
 
-The day after getting back from the UK, I took a few hour bus ride to Galway. Galway is a small city on the western coast of Ireland. The town was beautiful and comfortable. With perfect weather, everyone was taking time off to sit around in the park or by the canals and beaches to enjoy the rare summery weather. The food and drinks were great here. My last night here I went on one of my favorite pub crawls of the whole semester. It felt great to have some time to relax now that I was done with school, and Galway was perfect for that.
+Here’s a picture someone else in one of the tour groups took of us at the Berlin Wall.
 
-The day after Galway, my family arrived in Dublin. I didn’t take pictures during the family part of my trip, so the last two posts will be Italy and New York City.
-
-![useful image]({{site.baseurl}}/assets/img/image.jpg)
+![useful image]({{site.baseurl}}/assets/img/berlin-tour-group/31961182_10212243023335527_3446814123801706496_n.jpg)
